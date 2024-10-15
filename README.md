@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s" width="300" alt="GIF de Segurança" align="right">
+<img src="[https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s](https://giphy.com/embed/077i6AULCXc0FKTj9s" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)" width="300" alt="GIF de Segurança" align="right">
 
 Sou um **desenvolvedor back-end** com foco em **segurança** e **pentest**. Com experiência em **Python**, **sistemas Linux** e **cibersegurança**, meu objetivo é desenvolver soluções eficientes, seguras e escaláveis. Quando o assunto é desenvolvimento e segurança, acredito na construção de aplicações robustas, que sejam não apenas performáticas, mas também resistentes a ameaças.
 
